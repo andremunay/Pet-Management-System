@@ -29,6 +29,7 @@ The Pet Management System is a simple console-based application that allows user
    ```bash
    javac *.java
 2. Run the application:
+   ```bash
    java App
 
 ## Usage
