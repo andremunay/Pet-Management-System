@@ -46,11 +46,12 @@ The Pet Management System is a simple console-based application that allows user
 5. Put a Pet to Sleep
 6. Play with a Pet
 7. Save and Exit
-Enter your choice: 1
-Enter Pet Type (Dog/Cat/Bird): Dog
-Enter Pet Name: Buddy
-Enter Pet Age: 3
-Enter Pet Color: Brown
+
+- Enter your choice: 1
+- Enter Pet Type (Dog/Cat/Bird): Dog
+- Enter Pet Name: Buddy
+- Enter Pet Age: 3
+- Enter Pet Color: Brown
 
 ## Notes
 
