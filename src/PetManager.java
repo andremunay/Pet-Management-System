@@ -55,6 +55,7 @@ public class PetManager implements Serializable {
     }
 
     // Method to load pets from a file
+    @SuppressWarnings("unchecked")
     public void loadPetsFromFile(String filename){
         try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(filename))){
             pets = (List<Pet>) ois.readObject();
